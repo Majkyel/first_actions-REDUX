@@ -8,6 +8,7 @@ In this task I created my first action in Redux. I created other file with actio
 
 ## SOURCE 
 While creating the project I used: 
+1. Redux Documentation [https://redux.js.org/]
 
 ## TOOLS 
 I used package.json.
